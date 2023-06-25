@@ -29,6 +29,7 @@ You need generate train_list by
 and put it into folder './data/list/' .
 
 and then run
+
        python train.py
 
 You can find the trained model in the ./checkpoints/.
@@ -53,7 +54,7 @@ and then run
 
        python test_UIEB.py
 
-
+You can find the enhanced images in the ./checkpoints/test.
 
 
 # Dataset
