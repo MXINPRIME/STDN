@@ -16,7 +16,7 @@ Please download the pretrained VGG model [MyVGG.pt](https://drive.google.com/fil
 Baidu Disk pretrained VGG model [MyVGG.pt](https://pan.baidu.com/s/1pRx5zGLfV2Co0x_BcJOtJQ?pwd=c915) [code: c915] and a [vggfeature.pth](https://pan.baidu.com/s/1bfbThbMeErJJYLv693FuSg?pwd=84zk) [code: 84zk] 
 
 ## trian
-You need to set your own variables
+You need to set variables
 
 --train_root: The location of the training set
 
