@@ -50,6 +50,7 @@ You need generate train_list by
 and put it into folder './data/list/' .
 
 and then run
+
        python train.py
 
 
