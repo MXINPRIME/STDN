@@ -25,6 +25,9 @@ You need to set your own variables
 You need generate train_list and put it into folder './data/list/' 
     ```python
         python 
+
+and put it into folder './data/list/' 
+
     ```python
        python train.py
 
