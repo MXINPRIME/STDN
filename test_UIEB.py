@@ -85,7 +85,7 @@ if __name__ == "__main__":
 
     test_epoch = 89999
 
-    show_dst = args.save + '/UIEB2_test_onlyvggfea{}/'.format(test_epoch)
+    show_dst = args.save + '/test/'
     if not os.path.exists(show_dst):
         os.makedirs(show_dst)
 
