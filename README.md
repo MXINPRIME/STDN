@@ -31,6 +31,7 @@ and put it into folder './data/list/' .
 and then run
        python train.py
 
+You can find the trained model in the ./checkpoints/.
  ## test
  Please download the [UIEB pretrained model](https://drive.google.com/file/d/1VqryfoKZBenS4mlFM3SZL338pX3a6m9B/view?usp=sharing) and put it into folder './checkpoints/'
   
@@ -40,9 +41,6 @@ and then run
     ```python
        python test_UIEB.py
 
-  Please download the [UIEB pretrained model](https://drive.google.com/file/d/1VqryfoKZBenS4mlFM3SZL338pX3a6m9B/view?usp=sharing) and put it into folder './checkpoints/'
-  
-  Baidu Disk [UIEB pretrained model](https://pan.baidu.com/s/1Aq_1JA46sW6uyyU_Xibjiw?pwd=nacf) 
 
 
 
