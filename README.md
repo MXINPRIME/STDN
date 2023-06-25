@@ -34,8 +34,9 @@ and then run
  ## test
  Please download the [UIEB pretrained model](https://drive.google.com/file/d/1VqryfoKZBenS4mlFM3SZL338pX3a6m9B/view?usp=sharing) and put it into folder './checkpoints/'
   
-  Baidu Disk [UIEB pretrained model](https://pan.baidu.com/s/1Aq_1JA46sW6uyyU_Xibjiw?pwd=nacf) 
-Check the model and image pathes in test_UIEB.py and then run:
+ Baidu Disk [UIEB pretrained model](https://pan.baidu.com/s/1Aq_1JA46sW6uyyU_Xibjiw?pwd=nacf) 
+  
+ Check the model and image pathes in test_UIEB.py and then run:
     ```python
        python test_UIEB.py
 
