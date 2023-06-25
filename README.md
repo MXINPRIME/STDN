@@ -3,7 +3,7 @@ This is the PyTorch implementation for "Structure-Texture Disentangled Network (
 <div align=center>
 <img src="Fig/overview.png" width="80%">
 </div>
-##　Requirements
+# Requirements
 - CUDA 10.1
 - Python 3.6 (or later)
 - Pytorch 1.6.0
