@@ -22,9 +22,10 @@ You need to set variables
 
 --train_list：The list of names of images in the training set.
 
-You need generate train_list and put it into folder './data/list/' 
+You need generate train_list by
+
     ```python
-        python 
+        python  ./data/make_img_list.py
 
 and put it into folder './data/list/' 
 
