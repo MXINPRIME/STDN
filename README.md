@@ -32,7 +32,7 @@ and then run
 
        python train.py
 
-You can find the trained model in the ./checkpoints/.
+You can find the trained model in the './checkpoints/.'
  ## test
  Please download the [UIEB pretrained model](https://drive.google.com/file/d/1VqryfoKZBenS4mlFM3SZL338pX3a6m9B/view?usp=sharing) and put it into folder './checkpoints/'
   
@@ -54,7 +54,7 @@ and then run
 
        python test_UIEB.py
 
-You can find the enhanced images in the ./checkpoints/test.
+You can find the enhanced images in the './checkpoints/test.'
 
 
 # Dataset
