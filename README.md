@@ -24,7 +24,6 @@ You need to set variables
 
 You need generate train_list by
 
-    ```python
         python  ./data/make_img_list.py
 
 and put it into folder './data/list/' 
