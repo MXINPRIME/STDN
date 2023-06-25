@@ -1,10 +1,10 @@
-## STDN
+# STDN
 This is the PyTorch implementation for "Structure-Texture Disentangled Network (STDN) for Underwater Image Enhancement"
 <div align=center>
 <img src="Fig/overview.png" width="80%">
 </div>
 
-## Requirements
+# Requirements
 - CUDA 10.1
 - Python 3.6 (or later)
 - Pytorch 1.6.0
@@ -29,7 +29,7 @@ Baidu Disk pretrained VGG model [MyVGG.pt](https://pan.baidu.com/s/1pRx5zGLfV2Co
 
 
 
-## Dataset
+# Dataset
 Please download the following datasets:
 *   [UIEB](https://ieeexplore.ieee.org/document/8917818)
 *   [EUVP](http://irvlab.cs.umn.edu/resources/euvp-dataset)
