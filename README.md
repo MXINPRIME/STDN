@@ -37,9 +37,20 @@ You can find the trained model in the ./checkpoints/.
   
  Baidu Disk [UIEB pretrained model](https://pan.baidu.com/s/1Aq_1JA46sW6uyyU_Xibjiw?pwd=nacf) 
   
- Check the model and image pathes in test_UIEB.py and then run:
-    ```python
-       python test_UIEB.py
+You need to set variables
+
+--train_root: The location of the testing set
+
+--train_list：The list of names of images in the testing set.
+
+You need generate train_list by
+
+        python  ./data/make_img_list.py
+
+and put it into folder './data/list/' .
+
+and then run
+       python train.py
 
 
 
