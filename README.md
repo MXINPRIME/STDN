@@ -17,8 +17,11 @@ Baidu Disk pretrained VGG model [MyVGG.pt](https://pan.baidu.com/s/1pRx5zGLfV2Co
 
 ## trian
 You need to set your own variables
+
 --train_root: The location of the training set
+
 --train_list：The list of names of images in the training set.
+
 You need generate train_list and put it into folder './data/list/' 
     ```python
         python 
