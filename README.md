@@ -16,7 +16,12 @@ Please download the pretrained VGG model [MyVGG.pt](https://drive.google.com/fil
 Baidu Disk pretrained VGG model [MyVGG.pt](https://pan.baidu.com/s/1pRx5zGLfV2Co0x_BcJOtJQ?pwd=c915) [code: c915] and a [vggfeature.pth](https://pan.baidu.com/s/1bfbThbMeErJJYLv693FuSg?pwd=84zk) [code: 84zk] 
 
 ## trian
-1. Check the dataset path in train.py, and then run:
+You need to set your own variables
+--train_root: The location of the training set
+--train_list：The list of names of images in the training set.
+You need generate train_list and put it into folder './data/list/' 
+    ```python
+        python 
     ```python
        python train.py
 
