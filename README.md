@@ -51,7 +51,7 @@ and put it into folder './data/list/' .
 
 and then run
 
-       python train.py
+       python test_UIEB.py
 
 
 
