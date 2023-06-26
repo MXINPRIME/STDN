@@ -1,8 +1,5 @@
 # STDN
 This is the PyTorch implementation for "Structure-Texture Disentangled Network (STDN) for Underwater Image Enhancement"
-<div align=center>
-<img src="Fig/overview.png" width="80%">
-</div>
 
 # Requirements
 - CUDA 10.1
