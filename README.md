@@ -98,6 +98,6 @@ Enhanced images are saved in `./checkpoints/test/`.
 @article{STDN2023,
   title={Structure-Texture Disentangled Network for Underwater Image Enhancement},
   author={Bo Fu, Tianzhuang Zhang, Biao Qian, and Yang Wang},
-  journal={The Visual Computer},
+  journal={submitted to The Visual Computer},
 }
 ```
