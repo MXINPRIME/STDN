@@ -2,6 +2,8 @@
 **Structure-Texture Disentangled Network (STDN) for Underwater Image Enhancement**  
 *The Visual Computer Journal* | [Permanent Resources](https://github.com/MXINPRIME/STDN) | [Cite This Work](#citation)
 
+![STDN Architecture](./Fig/overview.png)
+
 This repository provides the PyTorch implementation for our paper "*Structure-Texture Disentangled Network (STDN) for Underwater Image Enhancement*", published in *The Visual Computer*. Comprehensive documentation, datasets, and pretrained models are permanently hosted on [GitHub](https://github.com/MXINPRIME/STDN).
 
 ---
