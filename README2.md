@@ -92,19 +92,6 @@ python test_UIEB.py --test_root ./data/UIEB/test --test_list ./data/list/UIEB_te
 ```
 Enhanced images are saved in `./checkpoints/test/`.
 
----
-
-<a name="method"></a>
-## Method Overview  
-### Key Algorithms  
-1. **Structure-Texture Disentanglement**  
-   - Dual-branch architecture separates structural and textural features.  
-   - Structural branch uses dilated convolutions; texture branch employs wavelet transforms.  
-
-2. **Hybrid Loss Function**  
-   - Combines L1 loss, perceptual loss (VGG-based), and adversarial loss.  
-
-For implementation details, see [Algorithm Documentation](https://github.com/yourusername/STDN/wiki/Algorithm-Details).
 
 ---
 
@@ -114,13 +101,6 @@ All models are permanently hosted on:
 - [Google Drive Folder](https://drive.google.com/drive/folders/your_folder_id)  
 - [Baidu Disk](https://pan.baidu.com/s/your_link)  
 
----
-
-<a name="reproducibility"></a>
-## Reproducibility Guide  
-To replicate our experiments:  
-1. Follow the [Training Guide](https://github.com/yourusername/STDN/wiki/Training-Guide).  
-2. Use the provided [Evaluation Scripts](https://github.com/yourusername/STDN/tree/main/evaluation) for PSNR/SSIM metrics.  
 
 ---
 
@@ -129,11 +109,7 @@ To replicate our experiments:
 ```bibtex
 @article{STDN2023,
   title={Structure-Texture Disentangled Network for Underwater Image Enhancement},
-  author={Your Name and Co-authors},
+  author={Bo Fu, Tianzhuang Zhang, Biao Qian, and Yang Wang},
   journal={The Visual Computer},
-  year={2023},
-  volume={39},
-  pages={4025--4039},
-  doi={10.1007/s00371-023-03134-1}
 }
 ```
