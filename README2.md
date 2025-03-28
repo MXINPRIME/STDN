@@ -12,10 +12,8 @@ This repository provides the PyTorch implementation for our paper "*Structure-Te
 3. [Dataset Preparation](#datasets)  
 4. [Training](#training)  
 5. [Testing](#testing)  
-6. [Method Overview](#method)  
-7. [Pretrained Models](#models)  
-8. [Reproducibility Guide](#reproducibility)  
-9. [Citation](#citation)  
+6. [Pretrained Models](#models)  
+7. [Citation](#citation)  
 
 ---
 
