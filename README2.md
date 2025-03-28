@@ -1,5 +1,4 @@
 # STDN  
-[![DOI](https://img.shields.io/badge/DOI---1-blue)](https://doi.org)  
 **Structure-Texture Disentangled Network (STDN) for Underwater Image Enhancement**  
 *The Visual Computer Journal* | [Permanent Resources](https://github.com/MXINPRIME/STDN) | [Cite This Work](#citation)
 
@@ -39,7 +38,7 @@ pip install torch==1.6.0 torchvision==0.7.0 opencv-python==3.4.0.14
 ## Installation  
 Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/STDN.git
+git clone https://github.com/MXINPRIME/STDN.git
 cd STDN
 ```
 
