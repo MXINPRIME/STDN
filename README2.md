@@ -12,8 +12,7 @@ This repository provides the PyTorch implementation for our paper "*Structure-Te
 3. [Dataset Preparation](#datasets)  
 4. [Training](#training)  
 5. [Testing](#testing)  
-6. [Pretrained Models](#models)  
-7. [Citation](#citation)  
+6. [Citation](#citation)  
 
 ---
 
@@ -89,15 +88,6 @@ Place it in `./checkpoints/`.
 python test_UIEB.py --test_root ./data/UIEB/test --test_list ./data/list/UIEB_test.txt
 ```
 Enhanced images are saved in `./checkpoints/test/`.
-
-
----
-
-<a name="models"></a>
-## Pretrained Models  
-All models are permanently hosted on:  
-- [Google Drive Folder](https://drive.google.com/drive/folders/your_folder_id)  
-- [Baidu Disk](https://pan.baidu.com/s/your_link)  
 
 
 ---
